@@ -1,0 +1,72 @@
+[
+    {
+        "filename": "book_1.jpg",
+        "path": "downloads/book_1.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_2.jpg",
+        "path": "downloads/book_2.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_3.jpg",
+        "path": "downloads/book_3.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_4.jpg",
+        "path": "downloads/book_4.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_5.jpg",
+        "path": "downloads/book_5.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_6.jpg",
+        "path": "downloads/book_6.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_7.jpg",
+        "path": "downloads/book_7.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_8.jpg",
+        "path": "downloads/book_8.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_9.jpg",
+        "path": "downloads/book_9.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_10.jpg",
+        "path": "downloads/book_10.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_11.jpg",
+        "path": "downloads/book_11.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_12.jpg",
+        "path": "downloads/book_12.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_13.jpg",
+        "path": "downloads/book_13.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    },
+    {
+        "filename": "book_14.jpg",
+        "path": "downloads/book_14.jpg",
+        "sha256": "6ad407809dc8e6d079dfbd21823508dffb897b97a27eb8ae43acbea1b7c8df0d"
+    }
+]
